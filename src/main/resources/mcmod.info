@@ -1,0 +1,16 @@
+[
+{
+  "modid": "endertoolset",
+  "name": "Ender Toolset",
+  "description": "Adds a new toolset - the ender tier, which has special abilities.",
+  "version": "1.0",
+  "mcversion": "1.11.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ValiantVole"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

@@ -1,0 +1,19 @@
+{
+  "result": {
+    "item": "endertoolset:ender_axe"
+  },
+  "pattern": [
+    "XX",
+    "X#",
+    " #"
+  ],
+  "type": "forge:ore_shaped",
+  "key": {
+    "X": {
+      "item": "minecraft:ender_eye",
+    },
+    "#": {
+      "item": "minecraft:stick"
+	}
+  }
+}

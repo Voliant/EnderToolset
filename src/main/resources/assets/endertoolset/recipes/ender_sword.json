@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "X": {
+      "item": "minecraft:ender_eye",
+    },
+    "#": {
+      "item": "minecraft:stick"
+	}
+  },
+  "result": {
+    "item": "endertoolset:ender_sword"
+  }
+}
