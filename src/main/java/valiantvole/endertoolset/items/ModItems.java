@@ -18,10 +18,13 @@ public class ModItems {
 	
 	public static ItemSword enderSword = new ItemSword(EnderToolset.enderToolMaterial, "ender_sword");
 	public static ItemAxe enderAxe = new ItemAxe(EnderToolset.enderToolMaterial, "ender_axe");
+	public static ItemPickaxe enderPickaxe = new ItemPickaxe(EnderToolset.enderToolMaterial, "ender_pickaxe");
 
 	public static void register(IForgeRegistry<Item> registry) {
 		registry.registerAll(    
-				enderSword
+				enderSword,
+				enderAxe,
+				enderPickaxe
 				
 	    );      
 	}
