@@ -10,7 +10,7 @@
   "type": "forge:ore_shaped",
   "key": {
     "X": {
-      "item": "minecraft:ender_eye",
+      "item": "minecraft:ender_eye"
     },
     "#": {
       "item": "minecraft:stick"
